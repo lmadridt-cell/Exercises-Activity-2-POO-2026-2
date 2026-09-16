@@ -1,7 +1,7 @@
 # Informacion academica:
-Univercidad Nacional de Colombia (sede medellin)
-semestre 2026-2
-curso de POO
+##Univercidad Nacional de Colombia (sede medellin)
+##semestre 2026-2
+##curso de POO
 
 # docente:
 Walter Hugo Arboleda Mazo 

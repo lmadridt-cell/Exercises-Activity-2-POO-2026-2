@@ -9,6 +9,6 @@ Walter Hugo Arboleda Mazo
 # estudiante: 
 Lizardo de Jesus Madrid Taborda
 
-# Activiada
+# Actividad
 Exercises-Activity-1-10-Individual-Thursday-17th-September
 

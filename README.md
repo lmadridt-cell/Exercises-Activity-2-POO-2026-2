@@ -3,10 +3,10 @@
 ##semestre 2026-2
 ##curso de POO
 
-# docente:
+# Docente:
 Walter Hugo Arboleda Mazo 
 
-# estudiante: 
+# Estudiante: 
 Lizardo de Jesus Madrid Taborda
 
 # Actividad
